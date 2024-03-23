@@ -13,6 +13,8 @@ Week 1 code challenge, We were given three challenges:
 
 3. Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary. 
 
+## Heads Up
+For the first code challenge run the program with live server!
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub

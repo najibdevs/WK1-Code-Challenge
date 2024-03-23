@@ -1,6 +1,8 @@
 // Write a program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade: 
 // A > 79, B - 60 to 79, C -  49 to 59, D - 40 to 49, E - less 40.
 
+// FOR THIS PROJECT USE LIVE SERVER TO RUN THE PROGRAM
+
 
 // This script continuously prompts the user to enter a number between 0 and 100 until they cancel.
 while (true) {
