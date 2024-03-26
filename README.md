@@ -4,6 +4,9 @@
 
 #### By Najib Iman
 
+## Project 1 Demo
+![Project 1](wk1.mov)
+
 ## Description
 Week 1 code challenge, We were given three challenges:
 1. Write a program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade: 
