@@ -5,7 +5,7 @@
 #### By Najib Iman
 
 ## Project 1 Demo
-![Project 1](wk1.mov)
+![project 1 preview](wk1.gif)
 
 ## Description
 Week 1 code challenge, We were given three challenges:
